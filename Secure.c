@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "/Users/haymantmangla/Desktop/C/Project/headerSecure.c"
+#include "headerSecure.c"
 int main()
 {
     clrscr();
